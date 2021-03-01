@@ -43,7 +43,7 @@ To create a dataset:
  * Start Blender from a terminal. The binary is simply "blender" in the top-level directory.
    Using the terminal lets you see progress and error messages.
 
- * Within Blender, navigate to and open calibrarion-scene.blend
+ * Within Blender, navigate to and open calibration-scene.blend
  * If necessary: Open Blender's text editor, choose 'BlenderStart.py'
  * Click the "Run Script" button in the text editor to start.
 
